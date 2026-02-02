@@ -4,6 +4,16 @@ AgroClimIoT es un sistema IoT para monitoreo agroclimático y de suelo, desarrol
 
 ---
 
+## 🎥 Videos del funcionamiento del MVP
+
+### Introducción a sensores y estaciones meteorológicas
+https://www.youtube.com/watch?v=WgTIaDN6WtE
+
+### Implementación práctica y ejemplo con ESP32
+https://www.youtube.com/watch?v=A6DuaI-SVns
+
+---
+
 ## 🚜 Características principales
 
 - Medición de temperatura y humedad ambiental
